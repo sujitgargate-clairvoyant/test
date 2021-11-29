@@ -1,1 +1,1 @@
-dev-notepad-contents
+int c = 100;
